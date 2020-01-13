@@ -1,3 +1,4 @@
 [submodule "hangman"]
 	path = hangman
 	url = https://github.com/VSKor/hangman
+	branch = master
